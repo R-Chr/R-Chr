@@ -14,7 +14,7 @@
   </a>
 </p>
  
-I build structural models of disordered materials and the computational infrastructure needed to validate them. My work sits at the intersection of **machine learning interatomic potentials (MLIPs)**, **ab initio molecular dynamics**, and **experimental scattering observables** (neutron/X-ray diffraction, S(Q), G(r)).
+I specialize in computational materials science, with a focus on disordered materials, atomic simulations, and machine learning. My research lies at the intersection of these fields, where I explore the fundamental physics and chemistry underlying material behavior through atomistic simulations and data science methodologies.
  
 Currently at **Tohoku University**, previously at **Aalborg University (AAU)**.
  
@@ -36,9 +36,3 @@ Analysis and workflow package for simulated glass structures.
 > **WIP** — APIs and functionality are subject to change. Contributions and bug reports welcome.
  
 ---
- 
-<p align="center">
-  <a href="https://github.com/R-Chr/vitrum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-Chr&repo=vitrum&theme=default&hide_border=true" alt="vitrum repo card"/>
-  </a>
-</p>
